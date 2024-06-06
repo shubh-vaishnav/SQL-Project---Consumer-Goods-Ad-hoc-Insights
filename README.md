@@ -38,7 +38,7 @@ The Power BI dashboard created for this project includes interactive charts and 
 The insights from the data analysis were put into a presentation aimed at the top-level management. The presentation is designed to be clear and easy to understand, showing the key insights effectively.
 
 ### Live Presentation
-You can view the live presentation [here](https://app.powerbi.com/view?r=eyJrIjoiZTlmYWVjNDYtMjUxNi00NmE0LWJlMDktN2ViNWE2NDhlNTEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectiondce10080edc7ca10c704).
+You can view the live presentation [here](https://app.powerbi.com/view?r=eyJrIjoiZTlmYWVjNDYtMjUxNi00NmE0LWJlMDktN2ViNWE2NDhlNTEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 ## Screenshot Reports
 <img src="https://github.com/shubh-vaishnav/SQL-Project---Consumer-Goods-Ad-hoc-Insights/blob/main/Picture1.png" class="center">
