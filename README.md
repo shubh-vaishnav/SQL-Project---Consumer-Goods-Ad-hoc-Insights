@@ -40,10 +40,9 @@ The insights from the data analysis were put into a presentation aimed at the to
 ### Live Presentation
 You can view the live presentation [here](https://app.powerbi.com/view?r=eyJrIjoiZTlmYWVjNDYtMjUxNi00NmE0LWJlMDktN2ViNWE2NDhlNTEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
-## Screenshot Reports
-<img src="https://github.com/shubh-vaishnav/SQL-Project---Consumer-Goods-Ad-hoc-Insights/blob/main/Picture1.png" class="center">
+## Sample Video
 
-<img src="https://github.com/shubh-vaishnav/SQL-Project---Consumer-Goods-Ad-hoc-Insights/blob/main/Picture2.png" class="center">
+https://github.com/shubh-vaishnav/SQL-Project---Consumer-Goods-Ad-hoc-Insights/assets/130170546/63ad8c22-a133-4a08-b426-d0ced9b2cfc4
 
 ## Conclusion
 This project shows how to use SQL to get valuable insights from data and present them using a Power BI dashboard and a clear presentation. The skills demonstrated include:
